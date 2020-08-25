@@ -6,7 +6,7 @@
 
  date    : 2020/08/25 
 
- update :
+ update : 2020/08/25
 
 ***
 
@@ -15,6 +15,7 @@ Github pages file, build from Vue-CLI
 ***
 ### sample
 
+https://kuc-arc-f.github.io/cms-sample-type5/
 
 ***
 
